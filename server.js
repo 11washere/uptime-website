@@ -3,7 +3,7 @@ require("express")().listen(1343);
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login(process.env.TOKEN);
+client.login("token");
 const fetch = require("node-fetch");
 const fs = require("fs");
 const express = require("express");
@@ -71,9 +71,9 @@ client.on("ready", () => {
   passport.use(
     new Strategy(
       {
-        clientID: process.env.clientID,
-        clientSecret: process.env.AuthSecret,
-        callbackURL: process.env.callbackurl,
+        clientID: "clientID",
+        clientSecret: "clientSecret",
+        callbackURL: "callbackURL",
         scope: ["identify"]
       },
       (accessToken, refreshToken, profile, done) => {
