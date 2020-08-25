@@ -1,7 +1,7 @@
 # Uptime System
 ### Info
 `*` Apache License <br>
-`*` [Rise Development]https://discord.gg/R73R2Sm)
+`*` [Rise Development](https://discord.gg/R73R2Sm)
 
 
 
