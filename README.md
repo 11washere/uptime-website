@@ -1,8 +1,7 @@
 # Uptime System
 ### Info
 `*` Apache License <br>
-`*` [Asuna Discord](https://discord.gg/cAzDhB6) <br>
-`*` [Uptime discord](https://discord.gg/2Us3WkJ)
+`*` [Rise Development]https://discord.gg/R73R2Sm)
 
 
 
