@@ -1,7 +1,7 @@
 # Uptime System
 ### Info
 `*` Apache License <br>
-`*` [Rise Development](https://discord.gg/R73R2Sm)
+`*` [Discord](https://discord.gg/yC659VN)
 
 
 
@@ -11,4 +11,4 @@
 
 
 ### Creators / Developers
-`-` by Alfonzo#0011 and cenap#4160
+`-` by eleven#0011 and cenap#0001
