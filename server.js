@@ -67,7 +67,7 @@ client.on("ready", () => {
 
 
 client.on("ready", () => {
-  client.user.setActivity(`by Alfonzo#1921 and cenap#4160`);
+  client.user.setActivity(`by Eleven & Cenap`);
   passport.use(
     new Strategy(
       {
