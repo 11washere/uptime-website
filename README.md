@@ -1,7 +1,7 @@
-# Uptime System
+# Uptime Website v1
 ### Info
 `*` Apache License <br>
-`*` [Discord](https://discord.gg/yC659VN)
+`*` [Discord](https://discord.gg/V6ukCvm)
 
 
 
@@ -11,4 +11,4 @@
 
 
 ### Creators / Developers
-`-` by eleven#0011 and cenap#0001
+`-` Eleven & Cenap
