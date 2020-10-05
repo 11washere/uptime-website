@@ -1,7 +1,7 @@
 # Uptime Website v1
 ### Info
 `*` Apache License <br>
-`*` [Discord](https://discord.gg/V6ukCvm)
+`*` [Discord](https://discord.gg/yC659VN)
 
 
 
