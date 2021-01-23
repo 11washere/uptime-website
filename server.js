@@ -3,7 +3,7 @@ require("express")().listen(1343);
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login("token");
+client.login("Here Token");
 const fetch = require("node-fetch");
 const fs = require("fs");
 const express = require("express");
@@ -67,13 +67,13 @@ client.on("ready", () => {
 
 
 client.on("ready", () => {
-  client.user.setActivity(`by Eleven & Cenap`);
+  client.user.setActivity(`© Rise Development. (Eleven & Cenap)`);
   passport.use(
     new Strategy(
       {
-        clientID: "clientID",
-        clientSecret: "clientSecret",
-        callbackURL: "callbackURL",
+        clientID: "Here Client ID",
+        clientSecret: "Here Client Secret",
+        callbackURL: "Here Callback URL",
         scope: ["identify"]
       },
       (accessToken, refreshToken, profile, done) => {
